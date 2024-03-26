@@ -24,6 +24,10 @@
   height: auto;
 }
 
+.material-icons {
+  cursor: pointer;
+}
+
 
 /* Add CSS styles for the card container with vertical scrolling */
 .card-container {
